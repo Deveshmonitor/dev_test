@@ -1,2 +1,6 @@
 This is testing in git push
+<<<<<<< HEAD
 My name is devesh sen
+=======
+devesh sen
+>>>>>>> fe5834dd8fc35ff78cad23da4e16c537dd3e68fc
